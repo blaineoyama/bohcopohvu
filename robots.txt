@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ozuohudey.corstianboerman.com/sitemap.xml
